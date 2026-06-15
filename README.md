@@ -1,2 +1,2 @@
 # C_Plus_Plus_Programms
-Basic to advanced C++ practice programs
+Collection of C++ programs demonstrating object-oriented programming, STL, data structures, algorithms, and coding challenges.
